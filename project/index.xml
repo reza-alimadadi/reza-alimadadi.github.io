@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Reza Alimadadi</title>
+    <link>https://reza-alimadadi.github.io/project/</link>
+    <description>Recent content in Projects on Reza Alimadadi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Your Name</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3-Issue MIPS processor</title>
+      <link>https://reza-alimadadi.github.io/project/mips/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://reza-alimadadi.github.io/project/mips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chaos-based Image Encryption Accelerator</title>
+      <link>https://reza-alimadadi.github.io/project/image-encryption/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://reza-alimadadi.github.io/project/image-encryption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Multiple Correlated Probabilities for MUX-Based Stochastic Computing Architecture</title>
+      <link>https://reza-alimadadi.github.io/project/stocastic/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://reza-alimadadi.github.io/project/stocastic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TLC: A Tag-less Cache for Reducing Dynamic First Level Cache Energy</title>
+      <link>https://reza-alimadadi.github.io/project/tagless-cache/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://reza-alimadadi.github.io/project/tagless-cache/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

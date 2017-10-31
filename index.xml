@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reza Alimadadi on Reza Alimadadi</title>
+    <link>https://reza-alimadadi.github.io/</link>
+    <description>Recent content in Reza Alimadadi on Reza Alimadadi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Your Name</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Propagation of Uncertainties in Approximate Computing</title>
+      <link>https://reza-alimadadi.github.io/publication/propagation-of-uncertainties/</link>
+      <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://reza-alimadadi.github.io/publication/propagation-of-uncertainties/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://reza-alimadadi.github.io/talk/example-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0330</pubDate>
+      
+      <guid>https://reza-alimadadi.github.io/talk/example-talk/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3-Issue MIPS processor</title>
+      <link>https://reza-alimadadi.github.io/project/mips/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://reza-alimadadi.github.io/project/mips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chaos-based Image Encryption Accelerator</title>
+      <link>https://reza-alimadadi.github.io/project/image-encryption/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://reza-alimadadi.github.io/project/image-encryption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Multiple Correlated Probabilities for MUX-Based Stochastic Computing Architecture</title>
+      <link>https://reza-alimadadi.github.io/project/stocastic/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://reza-alimadadi.github.io/project/stocastic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TLC: A Tag-less Cache for Reducing Dynamic First Level Cache Energy</title>
+      <link>https://reza-alimadadi.github.io/project/tagless-cache/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://reza-alimadadi.github.io/project/tagless-cache/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
